@@ -1,0 +1,21 @@
+.container {
+    margin:150px;
+}
+
+
+
+.card-body {
+    background-color: aqua;
+    border: 2px solid grey;
+    
+}
+.card:hover {
+    background-color: black;
+}
+.link {
+    text-decoration: none;
+    margin: 10px 180px;
+    padding:7px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
